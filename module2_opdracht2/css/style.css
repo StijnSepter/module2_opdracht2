@@ -1,0 +1,19 @@
+h1{
+    color: lightgray;
+}
+
+.square{
+    list-style-type: square;
+}
+
+.letters{
+    list-style-type: lower-alpha;
+}
+
+.inline{
+    list-style-type: none;
+    list-style-position: outside;
+}
+.inline1{
+    display: inline;
+}
